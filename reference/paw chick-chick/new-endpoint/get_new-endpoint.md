@@ -1,6 +1,5 @@
 ---
 title: Clawpoint
-excerpt: This is your first endpoint! Edit this page to start documenting your API.
 api:
   file: paw-chick-chick.json
   operationId: get_new-endpoint
