@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Loki
+title: Getting Started with Loki test
 excerpt: >-
   This page will help you get started with Loki. You'll be up and running in a
   jiffy!
