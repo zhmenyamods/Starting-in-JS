@@ -7,6 +7,12 @@ hidden: false
 ---
 Welcome to ReadMe! :owlbert:
 
+<HTMLBlock>{`
+<a href="https://www.google.com" target="_blank">Google</a>
+`}</HTMLBlock>
+
+<br />
+
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
 # 📝 Customize your docs
@@ -37,3 +43,5 @@ ReadMe has a *ton* of ways to make your docs the envy of any <Glossary>parliamen
 We're excited you're here! :blue_heart:
 
 ![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
+
+/
