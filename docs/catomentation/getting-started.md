@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Catting Started
 excerpt: >-
   This page will help you get started with Loki. You'll be up and running in a
   jiffy!
