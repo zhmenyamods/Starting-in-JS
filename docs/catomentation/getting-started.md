@@ -1,15 +1,11 @@
 ---
-title: Getting Started with Loki test
+title: Getting Started
 excerpt: >-
   This page will help you get started with Loki. You'll be up and running in a
   jiffy!
 hidden: false
 ---
-Welcome to ReadMe! :owlbert:
-
-<HTMLBlock>{`
-<a href="https://www.google.com" target="_blank">Google</a>
-`}</HTMLBlock>
+Welcome to ReadMe!
 
 <br />
 
@@ -24,6 +20,10 @@ Want to ease your users into it with some fancy marketing pages? You can enable 
 # 🚦 Interactive API Docs
 
 If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
+
+<HTMLBlock>{`
+<a href="https://www.test.com" target="_blank">Test</a>
+`}</HTMLBlock>
 
 * **Upload your OpenAPI file:** First step is to describe your API to us! If you already have an OpenAPI file, there's lots of ways to upload it in the *API Reference* section. Our favorite is the GitHub Action, but you can use our CLI or you can upload it directly to the UI!
 * **Add API Keys:** Don't make your users hunt around for API keys. You can surface their API key [right in the docs](https://docs.readme.com/main/docs/personalized-docs), so they can play around with your API right inside ReadMe.
